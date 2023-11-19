@@ -1,0 +1,19 @@
+{
+  "Items": [
+    {
+      "id": 1,
+      "checked": true,
+      "items": "Earn Money"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "items": "Earn Money"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "items": "Give Money"
+    }
+  ]
+}
